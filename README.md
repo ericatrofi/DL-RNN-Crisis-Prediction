@@ -14,7 +14,7 @@ Beyond predictive accuracy, the project emphasizes quantitative reasoning and in
 - Training of an RNN-based classifier using TensorFlow / Keras
 - Model evaluation with appropriate classification metrics and attention to temporal consistency
 ## Technologies
-- Python: NumPy, Pandas, scikit-learn, TensorFlow, Keras
+Python: NumPy, Pandas, scikit-learn, TensorFlow, Keras
 ## Data Source
 The dataset used in this project is publicly available on Kaggle.
 
